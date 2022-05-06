@@ -3,7 +3,7 @@ const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Ancient Creature is a collection of 3999 NFT with unique images';
+const welcome_p = "The Ancient Creature is a collection of 3999 NFT with unique images. /n It cost 10 MATIC to mint one NFT. /n Whoever owns a nft now will get exclusive NFT in second version of Ancient Creature and crypto token airdrop. /n Staking NFT also will be available soon. /n Don't miss out this chance. Let's Goo";
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
