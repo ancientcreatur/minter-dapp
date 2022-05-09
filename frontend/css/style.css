@@ -396,7 +396,6 @@ section {
 
 #roadmap{
   position: fixed;
-  height:100px;
   right: 50px;
   width: 800px;
 }
@@ -406,10 +405,12 @@ section {
   text-align: center;
   text-decoration: underline;
   font-family: 'Playfair Display', serif;
+  font-size: larger;
 }
 
 .sold5{
   position: fixed;
   text-align: center;
   text-rendering: auto;
+  font-size: medium;
 }
