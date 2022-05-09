@@ -394,22 +394,3 @@ section {
   display: none;
 }
 
-#roadmap{
-  position: fixed;
-  right: 50px;
-  width: 800px;
-  margin: auto;
-  top: 1000px;
-}
-
-#text-roadmap{
-  top: 2cm;
-}
-
-.road{
-  text-shadow: #be7efe;
-  text-align: center;
-  text-decoration: underline;
-  font-family: 'Playfair Display', serif;
-  font-size: larger;
-}
