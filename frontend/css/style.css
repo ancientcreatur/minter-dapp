@@ -412,12 +412,9 @@ section {
   text-decoration: underline;
   font-family: 'Playfair Display', serif;
   font-size: larger;
-  transform: rotateX(150deg);
 }
 
 .sold5{
-  position: fixed;
   text-align: center;
-  text-rendering: auto;
   font-size: medium;
 }
