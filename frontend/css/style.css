@@ -398,6 +398,7 @@ section {
   position: fixed;
   right: 50px;
   width: 800px;
+  margin: auto;
 }
 
 .road{
