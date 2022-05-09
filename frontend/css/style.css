@@ -399,7 +399,11 @@ section {
   right: 50px;
   width: 800px;
   margin: auto;
-  top: 500px;
+  top: 1000px;
+}
+
+#text-roadmap{
+  top: 2cm;
 }
 
 .road{
