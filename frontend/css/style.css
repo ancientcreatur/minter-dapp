@@ -399,7 +399,7 @@ section {
   right: 50px;
   width: 800px;
   margin: auto;
-  top: 50px;
+  top: 500px;
 }
 
 .road{
@@ -408,6 +408,7 @@ section {
   text-decoration: underline;
   font-family: 'Playfair Display', serif;
   font-size: larger;
+  transform: rotateX(150deg);
 }
 
 .sold5{
