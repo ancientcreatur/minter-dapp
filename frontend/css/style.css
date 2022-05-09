@@ -393,3 +393,8 @@ section {
 .hidden {
   display: none;
 }
+
+#roadmap{
+  text-align: center;
+  box-sizing: border-box;
+}
