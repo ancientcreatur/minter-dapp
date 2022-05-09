@@ -395,7 +395,10 @@ section {
 }
 
 #roadmap{
-  text-align: center;
-  box-sizing: border-box;
-  bottom: 500px;
+  position: fixed;
+  bottom: 0;
+  height:500px;
+  right: 50;
+  width: 300px;
+  border: 3px solid #73AD21;
 }
